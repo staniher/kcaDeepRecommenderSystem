@@ -1,0 +1,8 @@
+flask
+gunicorn
+numpy
+tensorflow-hub
+tensorflow-text
+scikit-learn
+beautifulsoup4
+requests
